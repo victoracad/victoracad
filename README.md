@@ -2,7 +2,7 @@ Olá!  Meu nome é Victor Eduardo e sou um estudante apaixonado por desenvolvime
 <hr>
 Atualmente:
 
-Dedico-me a aprender as principais linguagens da web: HTML, CSS, JavaScript, PHP e MySQL.
+<ul><li>Dedico-me a aprender as principais linguagens da web: HTML, CSS, JavaScript, PHP e MySQL.</li><br>
 Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.
 
 <div style="display: inline_block"><br>
