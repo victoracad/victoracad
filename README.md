@@ -3,7 +3,7 @@ Olá!  Meu nome é Victor Eduardo e sou um estudante apaixonado por desenvolvime
 Atualmente:
 
 <ul><li>Dedico-me a aprender as principais linguagens da web: HTML, CSS, JavaScript, PHP e MySQL.</li><br>
-Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.
+<li>Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.</li></ul>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScrpitVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
