@@ -1,4 +1,4 @@
-Olá!  Meu nome é Victor Eduardo e sou um estudante apaixonado por desenvolvimento web.
+Olá! Meu nome é Victor Eduardo e sou um estudante empolgado com as possibilidades do desenvolvimento web.
 <hr>
 Atualmente:
 
