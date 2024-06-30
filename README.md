@@ -14,7 +14,7 @@ Atualmente:
 </div>
 
   <hr>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoracad_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoracad&show_icons=true&theme=radical)
   Conecte-se comigo:
 <div>
 <a href="https://www.instagram.com/victorcarv99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
