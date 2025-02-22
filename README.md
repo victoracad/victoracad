@@ -25,4 +25,8 @@ Atualmente:
 <a href="https://www.linkedin.com/in/victor-eduardo-carvalho-do-rego-6b60b22ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 ![Codewars](https://www.codewars.com/users/victoracad/badges/large)
+## 🚀 Codewars
+Meu progresso e desafios resolvidos no Codewars:
+
+[![Codewars](https://www.codewars.com/users/SEU_USUARIO/badges/large)](https://www.codewars.com/users/SEU_USUARIO)
 
