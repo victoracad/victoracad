@@ -2,7 +2,7 @@ Olá! Meu nome é Victor Eduardo e sou um estudante empolgado com as possibilida
 <hr>
 Atualmente:
 
-<ul><li>Dedico-me a aprender as principais linguagens e frameworks da web: HTML, CSS, JavaScript, PHP, Laravel, Tailwind.</li><br>
+<ul><li>Dedico-me a aprender as principais linguagens e frameworks da web: HTML, CSS, JavaScript e PHP.</li><br>
 <li>Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.</li></ul>
 Linguagens:
 <div style="display: inline_block"><br>
