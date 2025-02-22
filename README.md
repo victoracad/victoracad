@@ -3,8 +3,9 @@ Olá! Meu nome é Victor Eduardo e sou um estudante empolgado com as possibilida
 Atualmente:
 
 <ul><li>Dedico-me a aprender as principais linguagens e frameworks da web: HTML, CSS, JavaScript e PHP.</li><br>
-<ul><li>Atualmente, estudo Laravel para a criação de sites completos e pretendo estudar as seguintes frameworks/ferramentas: Vue, Quasar, Flutter e Node.js.</li><br>
+
 <li>Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.</li></ul>
+<ul><li>Atualmente, estudo Laravel para a criação de sites completos e pretendo estudar as seguintes frameworks/ferramentas: Vue, Quasar, Flutter e Node.js.</li><br>
 Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScrpitVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
