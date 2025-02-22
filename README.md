@@ -4,7 +4,7 @@ Atualmente:
 
 <ul><li>Dedico-me a aprender as principais linguagens e frameworks da web: HTML, CSS, JavaScript, PHP, Laravel, Tailwind.</li><br>
 <li>Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.</li></ul>
-
+Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScrpitVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTMLVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +14,7 @@ Atualmente:
 
 Frameworks:
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="javaScrpitVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
   <hr>
