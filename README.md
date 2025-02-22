@@ -28,5 +28,5 @@ Atualmente:
 ## 🚀 Codewars
 Meu progresso e desafios resolvidos no Codewars:
 
-[![Codewars](https://www.codewars.com/users/SEU_USUARIO/badges/large)](https://www.codewars.com/users/SEU_USUARIO)
+[![Codewars](https://www.codewars.com/users/victoracad/badges/large)](https://www.codewars.com/users/victoracad)
 
