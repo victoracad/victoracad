@@ -2,7 +2,7 @@ Olá! Meu nome é Victor Eduardo e sou um estudante empolgado com as possibilida
 <hr>
 Atualmente:
 
-<ul><li>Dedico-me a aprender as principais linguagens da web: HTML, CSS, JavaScript, PHP e MySQL.</li><br>
+<ul><li>Dedico-me a aprender as principais linguagens e frameworks da web: HTML, CSS, JavaScript, PHP, Laravel, Tailwind.</li><br>
 <li>Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.</li></ul>
 
 <div style="display: inline_block"><br>
@@ -10,6 +10,11 @@ Atualmente:
   <img align="center" alt="HTMLVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSSVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHPVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
+
+Frameworks:
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
   <hr>
