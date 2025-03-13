@@ -14,7 +14,6 @@ Linguagens:
   <img align="center" alt="PHPVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 <br>
-<hr>
 <br>
 Frameworks:
 <div style="display: inline_block"><br>
