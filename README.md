@@ -18,7 +18,8 @@ Linguagens:
 <br>
 Frameworks:
 <div style="display: inline_block"><br>
-  <img align="center" alt="javaScrpitVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="laravelVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="tailwindVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
   <hr>
