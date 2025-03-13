@@ -5,7 +5,7 @@ Atualmente:
 <ul><li>Dedico-me a aprender as principais linguagens e frameworks da web: HTML, CSS, JavaScript e PHP.</li><br>
 
 <li>Me aprofundo nos conteúdos de desenvolvimento full-stack, buscando dominar as habilidades necessárias para construir aplicações web completas e robustas.</li></ul>
-<ul><li>Atualmente, estudo Laravel para a criação de sites completos e pretendo estudar as seguintes frameworks/ferramentas: Vue, Quasar, Flutter e Node.js.</li><br>
+<ul><li>Atualmente, estudo Laravel para a criação de sites completos e pretendo estudar as seguintes frameworks/ferramentas: Vue, Quasar, ReactNative e Node.js.</li><br>
 Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="javaScrpitVit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,10 @@ Frameworks:
 <div style="display: inline_block"><br>
   <img align="center" alt="laravelVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="tailwindVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div><br>
+Mobile:
+<div style="display: inline_block"><br>
+  <img align="center" alt="laravelVit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
 </div>
 
   <hr>
